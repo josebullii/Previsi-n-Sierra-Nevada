@@ -1,0 +1,7 @@
+Lunes-Soleado
+Martes-Soleado
+Miercoles-Nieve-5cm
+Jueves-Nieve-10cm
+Viernes-Soleado
+Sabado-Nieve-5cm
+Domingo-Soleado
